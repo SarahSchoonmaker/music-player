@@ -1,6 +1,12 @@
+# Bloc Jams
+Bloc Jams is a JavaScript music player.
 
-Bloc Jams is a mobile responsive streaming music player.
+# Prerequisites
+HTML, CSS, JavaScript, DOM Scripting, jQuery & <a href="http://buzz.jaysalvat.com/">Buzz Library</a>.
 
-Technologies Used:
-HTML, CSS, JavaScript, jQuery, Buzz audio library.
+# Demo
+<a href="http://bloc-jams-realtimschmidt.netlify.com/">Bloc Jams</a>
+This demo has 1 album and 5 songs available to test.
 
+# Case Study
+Yay! <a href="http://realtimschmidt.com/portfolio/blocjams.html">More to read!</a>
